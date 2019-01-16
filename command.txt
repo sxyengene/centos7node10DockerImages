@@ -1,1 +1,1 @@
-docker build -t centos7-node10 .
+docker build -t sxyengene/centos7node10:latest .
