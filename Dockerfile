@@ -1,6 +1,6 @@
 FROM centos:7
 
-LABEL maintainer="sunxiongying@myhexin.com"
+LABEL maintainer="sunxiongying@163.com"
 
 WORKDIR /var/www/html/
 
